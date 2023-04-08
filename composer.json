@@ -1,0 +1,7 @@
+{
+    "require": {
+        "mongodb/mongodb": "^1.12",
+        "ext-mongodb": "*",
+        "jenssegers/mongodb": "^3.9"
+    }
+}

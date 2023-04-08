@@ -1,0 +1,40 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/frontend/node_modules
+/frontend/.pnp
+/frontend/.pnp.js
+
+# testing
+/frontend/coverage
+
+# production
+/frontend/build
+
+# misc
+/frontend/.DS_Store
+/frontend/.env.local
+/frontend/.env.development.local
+/frontend/.env.test.local
+/frontend/.env.production.local
+
+/frontend/npm-debug.log*
+/frontend/yarn-debug.log*
+/frontend/yarn-error.log*
+
+
+/crud-app/node_modules
+/crud-app/public/hot
+/crud-app/public/storage
+/crud-app/storage/*.key
+/crud-app/vendor
+/crud-app/.env
+/crud-app/.env.backup
+/crud-app/.phpunit.result.cache
+/crud-app/docker-compose.override.yml
+/crud-app/Homestead.json
+/crud-app/Homestead.yaml
+/crud-app/npm-debug.log
+/crud-app/yarn-error.log
+/crud-app/.idea
+/crud-app/.vscode
